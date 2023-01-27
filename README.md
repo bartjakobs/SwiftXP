@@ -23,7 +23,7 @@ Live dangerously.
 Want to make a window like this?
 ![Example](Docs/screenshot.png "Example")
 
-Type this XCode 
+Type this Xcode: 
 ```Swift
 import SwiftUI
 import SwiftXP
