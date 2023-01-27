@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "button-focused.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

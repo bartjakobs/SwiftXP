@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "button-hover.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

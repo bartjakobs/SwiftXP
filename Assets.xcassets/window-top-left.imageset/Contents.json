@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "window-top-left.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
